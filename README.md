@@ -1,2 +1,0 @@
-# Blogpost
-blog
